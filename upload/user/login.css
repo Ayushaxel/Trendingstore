@@ -1,0 +1,22 @@
+*{
+    margin: 0 !important;
+    padding: 0 !important;
+}
+.bx11{
+outline: none !important;
+/* border: 1px solid rgb(237, 230, 230) !important; */
+}
+.bx11 input:focus{
+    border: 2px solid red !important;
+}
+.placeholder{
+background-color: #fff;
+padding: 40px !important;
+}
+.bx01 button:hover{
+    background-color: white !important;
+    color: black !important;
+}
+.bx2 p:hover{
+    color:  red !important;
+}
